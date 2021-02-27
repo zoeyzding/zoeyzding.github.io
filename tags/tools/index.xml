@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools on Zoey&#39; notes</title>
+    <link>https://zoeyzding.github.io/tags/tools/</link>
+    <description>Recent content in tools on Zoey&#39; notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Feb 2021 13:47:28 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Digital Tools</title>
+      <link>https://zoeyzding.github.io/post/my-digital-tools/</link>
+      <pubDate>Sat, 27 Feb 2021 13:47:28 +0800</pubDate>
+      
+      <guid>https://zoeyzding.github.io/post/my-digital-tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,16 @@
     <link>https://zoeyzding.github.io/</link>
     <description>Recent content on Zoey&#39; notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Nov 2020 02:30:46 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 13:47:28 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Digital Tools</title>
+      <link>https://zoeyzding.github.io/post/my-digital-tools/</link>
+      <pubDate>Sat, 27 Feb 2021 13:47:28 +0800</pubDate>
+      
+      <guid>https://zoeyzding.github.io/post/my-digital-tools/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Start Blogging</title>
       <link>https://zoeyzding.github.io/posts/start/</link>
@@ -14,20 +23,6 @@
       <guid>https://zoeyzding.github.io/posts/start/</guid>
       <description>Just built this blog today with two main reasons:
  If I can&amp;rsquo;t remember, I should write it down. Recently, I started to believe the power of data visualization, inspired by Nicholas Felton&amp;rsquo;s personal annual reports. In such sense, I want to document and visualize my work, study, or even my life through all kinds of methods.  Keep writing :) It should be fun!</description>
-    </item>
-    
-    <item>
-      <title>Hexo</title>
-      <link>https://zoeyzding.github.io/posts/20190821/</link>
-      <pubDate>Wed, 21 Aug 2019 02:30:46 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/20190821/</guid>
-      <description>Post a new article 在myblog目录下打开Git Bash命令窗口，输入
-hexo new &amp;quot;The New Title&amp;quot; 找到 &amp;ldquo;.md&amp;rdquo; 文件用markdown开始写，可以用visual studio editor写
-MD 文档 http://www.markdown.cn/
-一些我会常常用到的MD   插入图片     插入代码   三个点   分割线   一般我用下面这个
-- - -   插入一个link   方括号 + 冒号 + 一个以上空格 + 网址 + 带引号的标题
-写完文档之后的部署 hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d 一个很老套的直接看github上html网页的方法 GitHub Pages HTML Preview</description>
     </item>
     
     <item>
