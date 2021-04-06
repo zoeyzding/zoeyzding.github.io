@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zoeyzding.github.io/post/20210327hiking/</loc>
-    <lastmod>2021-03-29T00:40:36+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zoeyzding.github.io/posts/20210327hiking/</loc>
     <lastmod>2021-03-29T00:40:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoeyzding.github.io/posts/my-digital-tools/</loc>
-    <lastmod>2021-02-27T13:47:28+08:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +13,11 @@
   </url>
   
   <url>
-    <loc>https://zoeyzding.github.io/posts/</loc>
-    <lastmod>2021-03-29T00:40:36+08:00</lastmod>
+    <loc>https://zoeyzding.github.io/posts/my-digital-tools/</loc>
   </url>
   
   <url>
-    <loc>https://zoeyzding.github.io/post/</loc>
+    <loc>https://zoeyzding.github.io/posts/</loc>
     <lastmod>2021-03-29T00:40:36+08:00</lastmod>
   </url>
   
@@ -48,13 +37,18 @@
   </url>
   
   <url>
-    <loc>https://zoeyzding.github.io/tags/tools/</loc>
-    <lastmod>2021-02-27T13:47:28+08:00</lastmod>
+    <loc>https://zoeyzding.github.io/tags/thoughts/</loc>
+    <lastmod>2020-11-30T02:30:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zoeyzding.github.io/tags/thoughts/</loc>
-    <lastmod>2020-11-30T02:30:46+08:00</lastmod>
+    <loc>https://zoeyzding.github.io/tags/travel/</loc>
+    <lastmod>2017-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/posts/recall-travel-seattle/</loc>
+    <lastmod>2017-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -67,6 +61,10 @@
   
   <url>
     <loc>https://zoeyzding.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/tags/tools/</loc>
   </url>
   
 </urlset>

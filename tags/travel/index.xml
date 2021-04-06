@@ -1,52 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Zoey&#39; notes</title>
-    <link>https://zoeyzding.github.io/posts/</link>
-    <description>Recent content in Posts on Zoey&#39; notes</description>
+    <title>travel on Zoey&#39; notes</title>
+    <link>https://zoeyzding.github.io/tags/travel/</link>
+    <description>Recent content in travel on Zoey&#39; notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Mar 2021 00:40:36 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>缥缈峰</title>
-      <link>https://zoeyzding.github.io/posts/20210327hiking/</link>
-      <pubDate>Mon, 29 Mar 2021 00:40:36 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/20210327hiking/</guid>
-      <description>久违地加入登山小分队，在下过雨的清晨踩着泥泞的小路穿梭在茶树丛中。同行的小伙伴说这种感觉差不多就是『空山新雨后』，在春寒料峭的日子里再美好不过。我穿着格格不入的牛仔外套和白色球鞋，小心翼翼地走在长着青苔的石头上，默默告诉自己，下次再来爬山的话还是穿得更“专业”一些好了。
-穿过农家小巷之后便是登山口。距离山顶5000米。我们分成两路：喜欢探险的六人组和保守派的七人组。前一组沿着崎岖的小道登山，后一组选择了宽敞的盘山公路。总之，要登到山顶才行。这样的天气里根本看不清远处的太湖，可云雾缭绕的山顶美到让人窒息。</description>
-    </item>
-    
-    <item>
-      <title>Start Blogging</title>
-      <link>https://zoeyzding.github.io/posts/start/</link>
-      <pubDate>Mon, 30 Nov 2020 02:30:46 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/start/</guid>
-      <description>Just built this blog today with two main reasons:
- If I can&amp;rsquo;t remember, I should write it down. Recently, I started to believe the power of data visualization, inspired by Nicholas Felton&amp;rsquo;s personal annual reports. In such sense, I want to document and visualize my work, study, or even my life through all kinds of methods.  Keep writing :) It should be fun!</description>
-    </item>
-    
-    <item>
-      <title>My Digital Tools</title>
-      <link>https://zoeyzding.github.io/posts/my-digital-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/my-digital-tools/</guid>
-      <description>💻 Hardware  Macbook Pro 15&amp;quot; iPhone SE Apple Watch Series 1 Kindle  —
-📱Software 👷‍♀️ Web design &amp;amp; dev   Figma
-  Microsoft Edge
-  Fira Code
-  iTerm 2
-  Visual Studio Code
-  —
-📖 Others   Alfred
-  Trello
-  Evernote / 印象笔记 
-  Google Keep
-  Google Calendar
-  Google Podcast</description>
-    </item>
-    
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在西雅图当背包客</title>
       <link>https://zoeyzding.github.io/posts/recall-travel-seattle/</link>
