@@ -3,15 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zoeyzding.github.io/posts/start/</loc>
-    <lastmod>2020-11-30T02:30:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoeyzding.github.io/posts/my-digital-tools/</loc>
-  </url>
-  
-  <url>
     <loc>https://zoeyzding.github.io/posts/vscode-formatting/</loc>
     <lastmod>2021-04-22T22:27:41+08:00</lastmod>
   </url>
@@ -37,16 +28,15 @@
   </url>
   
   <url>
-    <loc>https://zoeyzding.github.io/tags/thoughts/</loc>
-    <lastmod>2020-11-30T02:30:46+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zoeyzding.github.io/archives/</loc>
   </url>
   
   <url>
     <loc>https://zoeyzding.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/posts/my-digital-life/</loc>
   </url>
   
   <url>
