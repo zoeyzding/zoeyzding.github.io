@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoey&#39; notes</title>
-    <link>https://zoeyzding.github.io/</link>
-    <description>Recent content on Zoey&#39; notes</description>
+    <title>VSCode on Zoey&#39; notes</title>
+    <link>https://zoeyzding.github.io/tags/vscode/</link>
+    <description>Recent content in VSCode on Zoey&#39; notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Apr 2021 22:27:41 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Start Blogging</title>
-      <link>https://zoeyzding.github.io/posts/start/</link>
-      <pubDate>Mon, 30 Nov 2020 02:30:46 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/start/</guid>
-      <description>Just built this blog today with two main reasons:
- If I can&amp;rsquo;t remember, I should write it down. Recently, I started to believe the power of data visualization, inspired by Nicholas Felton&amp;rsquo;s personal annual reports. In such sense, I want to document and visualize my work, study, or even my life through all kinds of methods.  Keep writing :) It should be fun!</description>
-    </item>
-    
-    <item>
-      <title>My Digital Life</title>
-      <link>https://zoeyzding.github.io/posts/my-digital-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/my-digital-tools/</guid>
-      <description>💻 Hardware  Macbook Pro 15&amp;quot; iPhone SE Apple Watch Series 1 Kindle  —
-📱Software 👷‍♀️ Web design &amp;amp; dev   Figma
-  Microsoft Edge
-  Fira Code
-  iTerm 2
-  Visual Studio Code
-  —
-📖 Others   Alfred
-  Notion
-  Simplenote
-  滴答清单
-  Evernote / 印象笔记 
-  Studies
-  Google Podcast</description>
-    </item>
-    
+    <lastBuildDate>Thu, 22 Apr 2021 22:27:41 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESLint, Prettier &amp; Beautify: VSCode Formatting</title>
       <link>https://zoeyzding.github.io/posts/vscode-formatting/</link>
@@ -60,15 +28,6 @@ Beautify 同样是在VSCode应用市场安装后做如下配置:
  VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  最近工作或学习中写代码的时候会听古典音乐， 并且用Forest来做时间管理，发现对专注都有促进的效果。
 —
 Reference  The 2019 Guide to Beautifying Visual Studio Code prevent-new-line-in-vs-code-after-formatting https://blog.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://zoeyzding.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zoeyzding.github.io/archives/</guid>
-      <description>archives</description>
     </item>
     
   </channel>
