@@ -5,7 +5,23 @@
     <link>https://zoeyzding.github.io/</link>
     <description>Recent content on Zoey&#39; notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Apr 2021 22:27:41 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 22:32:56 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Blog 如何更新</title>
+      <link>https://zoeyzding.github.io/posts/hugo-blog-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Thu, 29 Jul 2021 22:32:56 +0800</pubDate>
+      
+      <guid>https://zoeyzding.github.io/posts/hugo-blog-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0/</guid>
+      <description>#1写作 打开cmd，cd到hugo博客本地文件夹。
+hugo new posts/&amp;quot;new post.md&amp;quot; 打开 new post， 用markdown编辑器开始写作。
+#2预览 hugo server -D 确认无误之后将之前new post里面的draft:true改成draft:false。
+#3提交Git、更新发布新内容  运行hugo  hugo  进入到public目录，提交Git并发布
+cd public git add . git commit -m &amp;quot;xxxxx&amp;quot; (git pull) git push ``
+  访问博客检查效果。
+  __
+-end-</description>
+    </item>
+    
     <item>
       <title>ESLint, Prettier &amp; Beautify: VSCode Formatting</title>
       <link>https://zoeyzding.github.io/posts/vscode-formatting/</link>
@@ -25,8 +41,7 @@ Beautify 同样是在VSCode应用市场安装后做如下配置:
 //设置不需要自动格式化的html标签类型 &amp;#34;html.format.unformatted&amp;#34;: &amp;#34;pre,code,textarea,li&amp;#34;, //或者直接禁用所有对html的格式化 &amp;#34;html.format.enable&amp;#34;: false 到这里整体代码可以自动换行，但不会过于破碎影响阅读。
 —
 补充 编译器UI的美观程度也是影响写代码的重要因素。一个简洁美观的界面会让人更有动力写代码。日常使用VSCode的时候，我个人还会有如下的习惯：
- VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  最近工作或学习中写代码的时候会听古典音乐， 并且用Forest来做时间管理，发现对专注都有促进的效果。
-—
+ VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  —
 Reference  The 2019 Guide to Beautifying Visual Studio Code prevent-new-line-in-vs-code-after-formatting https://blog.</description>
     </item>
     

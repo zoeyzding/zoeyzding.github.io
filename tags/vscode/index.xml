@@ -25,8 +25,7 @@ Beautify 同样是在VSCode应用市场安装后做如下配置:
 //设置不需要自动格式化的html标签类型 &amp;#34;html.format.unformatted&amp;#34;: &amp;#34;pre,code,textarea,li&amp;#34;, //或者直接禁用所有对html的格式化 &amp;#34;html.format.enable&amp;#34;: false 到这里整体代码可以自动换行，但不会过于破碎影响阅读。
 —
 补充 编译器UI的美观程度也是影响写代码的重要因素。一个简洁美观的界面会让人更有动力写代码。日常使用VSCode的时候，我个人还会有如下的习惯：
- VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  最近工作或学习中写代码的时候会听古典音乐， 并且用Forest来做时间管理，发现对专注都有促进的效果。
-—
+ VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  —
 Reference  The 2019 Guide to Beautifying Visual Studio Code prevent-new-line-in-vs-code-after-formatting https://blog.</description>
     </item>
     
