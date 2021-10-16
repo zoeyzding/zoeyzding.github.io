@@ -12,21 +12,17 @@
       <pubDate>Thu, 22 Apr 2021 22:27:41 +0800</pubDate>
       
       <guid>https://zoeyzding.github.io/posts/vscode-formatting/</guid>
-      <description>问题 VSCode代码自动格式化使用的主流插件是ESLint，Prettier和Beautify。其中ESLint需要通过Terminal安装，后面两个是VSCode的插件，三个插件互相配合可以对代码排版起到事半功倍的效果。
-最近写React代码遇到了的格式上的问题，即代码自动格式化之后换行较多，导致代码看起来不够清爽。 于是研究了一下这三个插件的设置。
+      <description>问题 VSCode 代码自动格式化使用的主流插件是 ESLint，Prettier 和 Beautify。其中 ESLint 需要通过 Terminal 安装，后面两个是 VSCode 的插件，三个插件互相配合可以对代码排版起到事半功倍的效果。
+最近使用 VSCode 的时候我遇到了格式上的问题，即代码自动格式化之后换行较多，导致代码看起来不够清爽。 于是研究了一下这三个插件的设置。
 __
-ESLint 首先通过npm i -g eslint安装ESLint，之后在settings.json文件中配置如下的设置：
+ESLint 首先通过npm i -g eslint安装 ESLint，之后在settings.json文件中配置如下的设置：
 { &amp;#34;eslint.autoFixOnSave&amp;#34;: true, &amp;#34;files.eol&amp;#34;: &amp;#34;\n&amp;#34; } __
-Prettier 在VSCode应用市场安装后做如下配置:
+Prettier 在 VSCode 应用市场安装后做如下配置:
 { &amp;#34;prettier.eslintIntegration&amp;#34;: true, &amp;#34;editor.formatOnSave&amp;#34;: true } __
-Beautify 同样是在VSCode应用市场安装后做如下配置:
+Beautify 同样是在 VSCode 应用市场安装后做如下配置:
 { &amp;#34;beautify.language&amp;#34;: { &amp;#34;html&amp;#34;: [&amp;#34;html&amp;#34;, &amp;#34;php&amp;#34;, &amp;#34;erb&amp;#34;], &amp;#34;css&amp;#34;: [], &amp;#34;js&amp;#34;: [] } } —
-但是到这里还没有结束。试了一下还是会出现很多不必要自动换行，主要是HTML标签。所以这里还需要对HTML进行unformatted的设置。
-//设置不需要自动格式化的html标签类型 &amp;#34;html.format.unformatted&amp;#34;: &amp;#34;pre,code,textarea,li&amp;#34;, //或者直接禁用所有对html的格式化 &amp;#34;html.format.enable&amp;#34;: false 到这里整体代码可以自动换行，但不会过于破碎影响阅读。
-—
-补充 编译器UI的美观程度也是影响写代码的重要因素。一个简洁美观的界面会让人更有动力写代码。日常使用VSCode的时候，我个人还会有如下的习惯：
- VSCode主题：City Lights theme 代码字体：FiraCode 机械键盘增强音效插件：Mechvibes  —
-Reference  The 2019 Guide to Beautifying Visual Studio Code prevent-new-line-in-vs-code-after-formatting https://blog.</description>
+但是到这里还没有结束。试了一下还是会出现很多不必要自动换行，主要是 HTML 标签。所以这里还需要对 HTML 进行 unformatted 的设置。
+//设置不需要自动格式化的html标签类型 &amp;#34;html.format.unformatted&amp;#34;: &amp;#34;pre,code,textarea,li&amp;#34;, //或者直接禁用所有对html的格式化 &amp;#34;html.</description>
     </item>
     
   </channel>
