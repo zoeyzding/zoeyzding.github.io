@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zoeyzding.github.io/tags/design/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/posts/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/posts/rolling-up-the-town-story-of-a-small-mobile-grocery-store-in-mie-japan/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/tags/society/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/tags/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="l2"
+                href="https://zoeyzding.github.io/l2/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zoeyzding.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/</loc>
+    <lastmod>2021-10-16T21:41:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="l2"
+                href="https://zoeyzding.github.io/l2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zoeyzding.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/tags/blog/</loc>
+    <lastmod>2021-07-29T22:32:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/posts/how-to-update-this-blog/</loc>
+    <lastmod>2021-07-29T22:32:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="l2"
+                href="https://zoeyzding.github.io/l2/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zoeyzding.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="l2"
+                href="https://zoeyzding.github.io/l2/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zoeyzding.github.io/series/"
+                />
+  </url>
+  
+</urlset>
