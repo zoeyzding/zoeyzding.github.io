@@ -42,6 +42,15 @@ cd public git add . git commit -m &amp;quot;xxxxx&amp;quot; (git pull) git push 
     
     <item>
       <title>Archive</title>
+      <link>https://zoeyzding.github.io/archives.cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoeyzding.github.io/archives.cn/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
       <link>https://zoeyzding.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
