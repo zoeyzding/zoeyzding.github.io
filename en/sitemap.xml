@@ -30,6 +30,16 @@
   <url>
     <loc>https://zoeyzding.github.io/posts/</loc>
     <lastmod>2022-01-10T20:54:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://zoeyzding.github.io/cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zoeyzding.github.io/posts/"
+                />
   </url>
   
   <url>
@@ -119,6 +129,10 @@
                 hreflang="en"
                 href="https://zoeyzding.github.io/archives/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zoeyzding.github.io/bookselves/</loc>
   </url>
   
   <url>

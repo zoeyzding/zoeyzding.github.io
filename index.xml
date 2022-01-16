@@ -49,5 +49,14 @@ cd public git add . git commit -m &amp;quot;xxxxx&amp;quot; (git pull) git push 
       <description>archives</description>
     </item>
     
+    <item>
+      <title>Bookshelf</title>
+      <link>https://zoeyzding.github.io/bookselves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoeyzding.github.io/bookselves/</guid>
+      <description>test</description>
+    </item>
+    
   </channel>
 </rss>
