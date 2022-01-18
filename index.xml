@@ -33,7 +33,7 @@ One episode of the show is called “A ‘Truckful’ of food and smile.</descri
       <pubDate>Thu, 29 Jul 2021 22:32:56 +0800</pubDate>
       
       <guid>https://zoeyzding.github.io/posts/how-to-update-this-blog/</guid>
-      <description>#1 Write a post Open cmd，cd to hugo blog local folder。
+      <description>#1 Write a post Open cmd，cd to hugo blog local folder.
 hugo new posts/&amp;quot;new post.md&amp;quot; Open &amp;ldquo;new post&amp;rdquo;. Start wrting by using a markdown editor (recommended).
 #2 Preview hugo server -D Make sure everything works fine. Change draft:true to draft:false in the metadata section of the post.
 #3 Git update  Run hugo  hugo  Go to &amp;ldquo;public&amp;rdquo; folder, push to GitHub.
