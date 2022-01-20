@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on zoeyzding</title>
+    <link>https://zoeyzding.github.io/tags/blogging/</link>
+    <description>Recent content in blogging on zoeyzding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Jul 2021 22:32:56 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to update this blog (built with Hugo &amp; GitHub Pages)</title>
+      <link>https://zoeyzding.github.io/posts/how-to-update-this-blog/</link>
+      <pubDate>Thu, 29 Jul 2021 22:32:56 +0800</pubDate>
+      
+      <guid>https://zoeyzding.github.io/posts/how-to-update-this-blog/</guid>
+      <description>#1 Write a post Open cmd，cd to hugo blog local folder.
+hugo new posts/&amp;quot;new post.md&amp;quot; Open &amp;ldquo;new post&amp;rdquo;. Start writing by using a markdown editor (recommended).
+#2 Preview hugo server -D Make sure everything works fine. Change draft:true to draft:false in the metadata section of the post.
+#3 Git update  Run hugo  hugo  Go to &amp;ldquo;public&amp;rdquo; folder, push to GitHub.
+cd public git add . git commit -m &amp;quot;xxxxx&amp;quot; (git pull) git push   Go to the blog url to see the final result.</description>
+    </item>
+    
+  </channel>
+</rss>
