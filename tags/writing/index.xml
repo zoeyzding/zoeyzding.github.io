@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zoeyzding</title>
-    <link>https://zoeyzding.github.io/</link>
-    <description>Recent content on zoeyzding</description>
+    <title>Writing on zoeyzding</title>
+    <link>https://zoeyzding.github.io/tags/writing/</link>
+    <description>Recent content in Writing on zoeyzding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Feb 2022 20:57:00 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Feb 2022 20:57:00 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Motivation for Blogging</title>
       <link>https://zoeyzding.github.io/posts/my-motivation-for-blogging/</link>
@@ -35,28 +35,6 @@ At a certain point in my life (Actually, just yesterday), I made a pivot change 
       <description>One of my pastimes is watching documentaries about culture and humanities. Among various channels, NHK’s documentaries never let me down. And the good thing is, some programs can be streamed within a certain period on NHK World.
 Recently, I have been obsessed with a program called “Hometown Stories” — stories about local people around Japan. I haven’t watched much though, some stories have left me with a touching impression.
 One episode of the show is called “A ‘Truckful’ of food and smile.</description>
-    </item>
-    
-    <item>
-      <title>How to update this blog (built with Hugo &amp; GitHub Pages)</title>
-      <link>https://zoeyzding.github.io/posts/how-to-update-this-blog/</link>
-      <pubDate>Thu, 29 Jul 2021 22:32:56 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/posts/how-to-update-this-blog/</guid>
-      <description>#1 Write a post Open cmd，cd to hugo blog local folder.
-hugo new posts/&amp;quot;new post.md&amp;quot; Open &amp;ldquo;new post&amp;rdquo;. Start writing by using a markdown editor (recommended).
-#2 Preview hugo server -D Make sure everything works fine. Change draft:true to draft:false in the metadata section of the post.
-#3 Git update  Run hugo  hugo  Go to &amp;ldquo;public&amp;rdquo; folder, push to GitHub.
-cd public git add . git commit -m &amp;quot;xxxxx&amp;quot; (git pull) git push   Go to the blog url to see the final result.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://zoeyzding.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zoeyzding.github.io/archives/</guid>
-      <description>archives</description>
     </item>
     
   </channel>
