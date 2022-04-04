@@ -4,25 +4,6 @@
     <title>Tags on zoeyzding</title>
     <link>https://zoeyzding.github.io/tags/</link>
     <description>Recent content in Tags on zoeyzding</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Feb 2022 20:57:00 +0800</lastBuildDate><atom:link href="https://zoeyzding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Writing</title>
-      <link>https://zoeyzding.github.io/tags/writing/</link>
-      <pubDate>Sat, 05 Feb 2022 20:57:00 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>https://zoeyzding.github.io/tags/note/</link>
-      <pubDate>Thu, 29 Jul 2021 22:32:56 +0800</pubDate>
-      
-      <guid>https://zoeyzding.github.io/tags/note/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zoeyzding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
